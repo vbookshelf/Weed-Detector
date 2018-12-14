@@ -13,6 +13,9 @@ https://arxiv.org/abs/1711.05458
 The entire model building and training process is described in this Kaggle kernel:<br>
 https://www.kaggle.com/vbookshelf/a-simple-keras-solution
 
+Model Accuracy: 0.97<br>
+Model F1 Score: 0.79<br>
+
 The python code to build and train the model is included in the Jupyter notebook. All the javascript, css and html files are also freely available here. The trained model is also available.
 
 
