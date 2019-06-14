@@ -1,7 +1,13 @@
 
-### Weed Detector
+## Weed-Detector
 
 Live Web App: http://plant.test.woza.work/
+
+<br>
+
+<img src="http://plant.test.woza.work/assets/weed_sample.png" width="350"></img>
+
+<br>
 
 This is a prototype for an online tool that can help farmers identify weed seedlings. 
 
